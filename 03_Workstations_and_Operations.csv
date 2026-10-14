@@ -1,0 +1,7 @@
+type,name,workstation_name,operation_name,hour_rate,description
+Workstation,WS-POTONG-JAHIT,WS Potong dan Jahit,,45000,Area pemotongan busa dan jahit cover kain mesh
+Workstation,WS-ASSEMBLY,WS Perakitan Utama,,50000,Area perakitan mekanik kaki hidrolik dan sandaran
+Workstation,WS-QC-PACKING,WS QC dan Packaging,,35000,Area inspeksi kelayakan fungsi dan pengepakan kardus
+Operation,OP-JAHIT-BUSA,,Operasi Potong Jahit Busa,45000,Memotong busa dan menjahit cover kain pada sandaran dudukan
+Operation,OP-ASSEMBLY-FRAME,,Operasi Perakitan Mekanikal,50000,Memasang armrest gaslift bintang kaki roda dan mekanik hidrolik
+Operation,OP-QC-PACKING,,Operasi QC dan Pengepakan,35000,Pengujian kestabilan beban hidrolik dan pembungkusan ke karton

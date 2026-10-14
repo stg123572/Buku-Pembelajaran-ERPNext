@@ -1,0 +1,11 @@
+bom_parent_item,bom_qty,item_code,item_name,qty_per_unit,stock_uom,rate,amount,operation
+FG-KURSI-01,1,RM-RANGKA-01,Rangka Punggung Besi,1,Nos,150000,150000,OP-ASSEMBLY-FRAME
+FG-KURSI-01,1,RM-BUSA-01,Busa Dudukan High Density,1,Nos,75000,75000,OP-JAHIT-BUSA
+FG-KURSI-01,1,RM-KAIN-01,Kain Pelapis Mesh Hitam,2,Meter,45000,90000,OP-JAHIT-BUSA
+FG-KURSI-01,1,RM-GASLIFT-01,Silinder Hidrolik Gas Lift Class 3,1,Nos,85000,85000,OP-ASSEMBLY-FRAME
+FG-KURSI-01,1,RM-BASE-01,Kaki Bintang Lima Nilon 320mm,1,Nos,95000,95000,OP-ASSEMBLY-FRAME
+FG-KURSI-01,1,RM-RODA-01,Set Roda Caster 50mm (5 Pcs),1,Set,40000,40000,OP-ASSEMBLY-FRAME
+FG-KURSI-01,1,RM-ARMREST-01,Set Sandaran Tangan 3D Kiri Kanan,1,Set,110000,110000,OP-ASSEMBLY-FRAME
+FG-KURSI-01,1,RM-BAUT-01,Paket Baut dan Kunci L Perakitan,1,Set,20000,20000,OP-ASSEMBLY-FRAME
+FG-KURSI-01,1,PKG-BOX-01,Kardus Kemasan Corrugated Brown,1,Nos,25000,25000,OP-QC-PACKING
+FG-KURSI-01,1,PKG-PLASTIK-01,Plastik Pembungkus dan Bubble Wrap,1,Roll,10000,10000,OP-QC-PACKING

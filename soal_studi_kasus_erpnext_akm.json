@@ -1,0 +1,66 @@
+{
+  "title": "Studi Kasus ERPNext Manufaktur - PT Anggi Karya Manufaktur",
+  "company_info": {
+    "company_name": "PT Anggi Karya Manufaktur",
+    "currency": "IDR",
+    "main_product": "Kursi Kantor Ergonomis Tipe Nexus (FG-KURSI-01)"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "module": "Stock",
+      "topic": "Master Data & Saldo Awal",
+      "task": "Konfigurasi Item Group (Bahan Baku, Barang Jadi, Bahan Kemasan), Warehouses (Gudang Bahan Baku, WIP, Barang Jadi), dan pengisian Saldo Awal 50 unit bahan baku via Material Receipt.",
+      "input_data": {
+        "items": ["FG-KURSI-01", "RM-RANGKA-01", "RM-BUSA-01", "RM-KAIN-01", "PKG-BOX-01"],
+        "opening_qty": 50,
+        "target_warehouse": "Gudang Bahan Baku - AKM"
+      }
+    },
+    {
+      "id": 2,
+      "module": "Manufacturing",
+      "topic": "Workstation, Operation, & BOM",
+      "task": "Setup Workstation (WS Potong & Jahit, WS Perakitan Utama, WS QC & Packaging), Operation (OP-JAHIT-BUSA, OP-ASSEMBLY-FRAME, OP-QC-PACKING), dan pembuatan BOM 1 unit FG-KURSI-01.",
+      "input_data": {
+        "bom_item": "FG-KURSI-01",
+        "qty": 1
+      }
+    },
+    {
+      "id": 3,
+      "module": "Buying & Stock",
+      "topic": "Procurement Flow",
+      "task": "Pemesanan Purchase Order (PO-SIM-001) ke PT Baja Mandiri Perkasa untuk 20 unit RM-RANGKA-01 dan RM-BASE-01, serta jelaskan alur dokumen Purchase Receipt hingga Purchase Invoice.",
+      "input_data": {
+        "po_number": "PO-SIM-001",
+        "supplier": "PT Baja Mandiri Perkasa",
+        "qty_per_item": 20
+      }
+    },
+    {
+      "id": 4,
+      "module": "Manufacturing Execution",
+      "topic": "Work Order & Material Transfer",
+      "task": "Eksekusi Work Order untuk memproduksi 10 unit FG-KURSI-01, transfer material dari Gudang Bahan Baku ke Gudang WIP, dan penerimaan produk jadi di Gudang Barang Jadi.",
+      "input_data": {
+        "production_qty": 10,
+        "source_warehouse": "Gudang Bahan Baku - AKM",
+        "wip_warehouse": "Gudang Work In Progress - AKM",
+        "target_warehouse": "Gudang Barang Jadi - AKM"
+      }
+    },
+    {
+      "id": 5,
+      "module": "Selling & Accounting",
+      "topic": "Penjualan & Laporan Keuangan",
+      "task": "Pemrosesan Sales Order (SO-SIM-001) 10 unit FG-KURSI-01 @ Rp 1.250.000 ke PT Sejahtera Finansial Utama, penerbitan Delivery Note, Sales Invoice, dan perhitungan Laba Kotor.",
+      "input_data": {
+        "customer": "PT Sejahtera Finansial Utama",
+        "so_number": "SO-SIM-001",
+        "selling_price": 1250000,
+        "qty": 10
+      }
+    }
+  ]
+}

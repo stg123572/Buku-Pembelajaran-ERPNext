@@ -1,0 +1,13 @@
+item_code,item_name,item_group,stock_uom,is_stock_item,standard_rate,valuation_rate,description
+FG-KURSI-01,Kursi Kantor Ergonomis Nexus,Barang Jadi,Nos,1,1250000,650000,Kursi kantor ergonomis dengan penopang lumbal dan armrest 3D
+FG-KURSI-02,Kursi Kantor Direktur Executive,Barang Jadi,Nos,1,2100000,1150000,Kursi kantor direktur dengan bantalan tebal dan finishing kulit sintetis
+RM-RANGKA-01,Rangka Punggung Besi,Bahan Baku,Nos,1,0,150000,Rangka utama penopang punggung kursi
+RM-BUSA-01,Busa Dudukan High Density,Bahan Baku,Nos,1,0,75000,Busa cetak high density anti kempes
+RM-KAIN-01,Kain Pelapis Mesh Hitam,Bahan Baku,Meter,1,0,45000,Kain mesh berpori breathable warna hitam
+RM-GASLIFT-01,Silinder Hidrolik Gas Lift Class 3,Bahan Baku,Nos,1,0,85000,Silinder hidrolik pengatur ketinggian standar BIFMA
+RM-BASE-01,Kaki Bintang Lima Nilon 320mm,Bahan Baku,Nos,1,0,95000,Kaki kursi bintang 5 bahan nilon kokoh
+RM-RODA-01,Set Roda Caster 50mm (5 Pcs),Bahan Baku,Set,1,0,40000,Satu set berisi 5 roda swivel putar bebas
+RM-ARMREST-01,Set Sandaran Tangan 3D Kiri Kanan,Bahan Baku,Set,1,0,110000,Sandaran tangan adjustable 3 arah
+RM-BAUT-01,Paket Baut dan Kunci L Perakitan,Bahan Baku,Set,1,0,20000,Paket lengkap baut mur dan kunci L
+PKG-BOX-01,Kardus Kemasan Corrugated Brown,Bahan Kemasan,Nos,1,0,25000,Kardus tebal kemasan packing aman
+PKG-PLASTIK-01,Plastik Pembungkus dan Bubble Wrap,Bahan Kemasan,Roll,1,0,10000,Plastik pelindung gesekan komponen

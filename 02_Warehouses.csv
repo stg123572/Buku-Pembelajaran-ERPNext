@@ -1,0 +1,5 @@
+warehouse_name,parent_warehouse,is_group,description
+Gudang Bahan Baku - AKM,All Warehouses,0,Penyimpanan semua komponen dan material bahan baku
+Gudang Work In Progress - AKM,All Warehouses,0,Gudang sementara untuk proses perakitan dan produksi
+Gudang Barang Jadi - AKM,All Warehouses,0,Penyimpanan produk akhir kursi kantor siap kirim
+Gudang Reject dan Scrap - AKM,All Warehouses,0,Tempat penampungan material cacat atau afkir

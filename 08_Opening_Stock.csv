@@ -1,0 +1,11 @@
+item_code,target_warehouse,qty,valuation_rate,amount
+RM-RANGKA-01,Gudang Bahan Baku - AKM,50,150000,7500000
+RM-BUSA-01,Gudang Bahan Baku - AKM,50,75000,3750000
+RM-KAIN-01,Gudang Bahan Baku - AKM,100,45000,4500000
+RM-GASLIFT-01,Gudang Bahan Baku - AKM,50,85000,4250000
+RM-BASE-01,Gudang Bahan Baku - AKM,50,95000,4750000
+RM-RODA-01,Gudang Bahan Baku - AKM,50,40000,2000000
+RM-ARMREST-01,Gudang Bahan Baku - AKM,50,110000,5500000
+RM-BAUT-01,Gudang Bahan Baku - AKM,50,20000,1000000
+PKG-BOX-01,Gudang Bahan Baku - AKM,50,25000,1250000
+PKG-PLASTIK-01,Gudang Bahan Baku - AKM,50,10000,500000

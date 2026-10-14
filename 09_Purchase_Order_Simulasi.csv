@@ -1,0 +1,11 @@
+po_number,supplier,item_code,item_name,qty,rate,amount,required_by_date
+PO-SIM-001,PT Baja Mandiri Perkasa,RM-RANGKA-01,Rangka Punggung Besi,20,150000,3000000,2026-09-10
+PO-SIM-001,PT Baja Mandiri Perkasa,RM-BASE-01,Kaki Bintang Lima Nilon 320mm,20,95000,1900000,2026-09-10
+PO-SIM-002,CV Foam & Textile Nusantara,RM-BUSA-01,Busa Dudukan High Density,20,75000,1500000,2026-09-10
+PO-SIM-002,CV Foam & Textile Nusantara,RM-KAIN-01,Kain Pelapis Mesh Hitam,40,45000,1800000,2026-09-10
+PO-SIM-003,PT Mitra Hardware Indonesia,RM-GASLIFT-01,Silinder Hidrolik Gas Lift Class 3,20,85000,1700000,2026-09-10
+PO-SIM-003,PT Mitra Hardware Indonesia,RM-RODA-01,Set Roda Caster 50mm (5 Pcs),20,40000,800000,2026-09-10
+PO-SIM-003,PT Mitra Hardware Indonesia,RM-ARMREST-01,Set Sandaran Tangan 3D Kiri Kanan,20,110000,2200000,2026-09-10
+PO-SIM-003,PT Mitra Hardware Indonesia,RM-BAUT-01,Paket Baut dan Kunci L Perakitan,20,20000,400000,2026-09-10
+PO-SIM-004,CV Karton Box Lestari,PKG-BOX-01,Kardus Kemasan Corrugated Brown,20,25000,500000,2026-09-10
+PO-SIM-004,CV Karton Box Lestari,PKG-PLASTIK-01,Plastik Pembungkus dan Bubble Wrap,20,10000,200000,2026-09-10
